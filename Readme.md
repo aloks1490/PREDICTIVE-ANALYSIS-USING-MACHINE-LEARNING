@@ -30,12 +30,4 @@ This project demonstrates demand forecasting and inventory optimization using SA
   - **Safety Stock**
   - **Total Cost (Holding + Stockout)**
 
-## Prerequisites
-
-- Python 3.7 or later
-- Required libraries: `pandas`, `numpy`, `plotly`, `matplotlib`, `statsmodels`
-
-Install the dependencies using:
-```bash
-pip install pandas numpy plotly matplotlib statsmodels
 
